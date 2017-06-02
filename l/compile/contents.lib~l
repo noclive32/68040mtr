@@ -1,0 +1,25 @@
+138
+~E 1 "./src/address_alu.vhd" 14 address_alu
+~A 1 "./src/address_alu.vhd" 43 behavior
+~E 1 "./src/adv_math_unit.vhd" 15 adv_math_unit
+~A 1 "./src/adv_math_unit.vhd" 41 structure
+~E 1 "./src/ccr.vhd" 12 ccr
+~A 1 "./src/ccr.vhd" 57 behavior
+~E 1 "./src/data_alu.vhd" 12 data_alu
+~A 1 "./src/data_alu.vhd" 45 behavior
+~E 1 "./src/div.vhd" 14 div
+~A 1 "./src/div.vhd" 53 behavior
+~E 1 "./src/mapper.vhd" 13 mapper
+~A 1 "./src/mapper.vhd" 29 behavior
+~E 1 "./src/memory_controller.vhd" 15 memory_controller
+~A 1 "./src/memory_controller.vhd" 57 behavior
+~E 1 "./src/microsquencer.vhd" 14 microsquencer
+~A 1 "./src/microsquencer.vhd" 40 behavior
+~E 1 "./src/mul.vhd" 14 mul
+~A 1 "./src/mul.vhd" 43 behavior
+~E 1 "./src/register_array.vhd" 15 register_array
+~A 1 "./src/register_array.vhd" 58 behavior
+~E 1 "./src/reset_irq_handler.vhd" 51 reset_irq_handler
+~A 1 "./src/reset_irq_handler.vhd" 95 behavior
+~E 1 "./src/vector_split.vhd" 12 vector_split
+~A 1 "./src/vector_split.vhd" 82 behavior

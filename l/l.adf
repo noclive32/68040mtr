@@ -1,0 +1,72 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=l
+
+[Library]
+l=.\l.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\ярослав\Desktop\gator_ucomputer_v1.0\gator_uprocessor
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+l=.
+Active_lib=
+
+[Files]
+/microsquencer.vhd=-1
+/register_array.vhd=-1
+/reset_irq_handler.vhd=-1
+/vector_split.vhd=-1
+/data_alu.vhd=-1
+/mapper.vhd=-1
+/memory_controller.vhd=-1
+/ccr.vhd=-1
+/address_alu.vhd=-1
+/mul.vhd=-1
+/div.vhd=-1
+/adv_math_unit.vhd=-1
+
+[Files.Data]
+.\src\microsquencer.vhd=VHDL Source Code
+.\src\register_array.vhd=VHDL Source Code
+.\src\reset_irq_handler.vhd=VHDL Source Code
+.\src\vector_split.vhd=VHDL Source Code
+.\src\data_alu.vhd=VHDL Source Code
+.\src\mapper.vhd=VHDL Source Code
+.\src\memory_controller.vhd=VHDL Source Code
+.\src\ccr.vhd=VHDL Source Code
+.\src\address_alu.vhd=VHDL Source Code
+.\src\mul.vhd=VHDL Source Code
+.\src\div.vhd=VHDL Source Code
+.\src\adv_math_unit.vhd=VHDL Source Code
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=microsquencer|behavior|0 
+ShowHide=ShowTopLevel
+Selected=

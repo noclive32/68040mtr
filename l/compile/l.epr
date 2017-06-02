@@ -1,0 +1,13 @@
+"c:\My_Designs\68040mtr\l\src\microsquencer.vhd" VHDL l 1 0 0 -02
+"c:\My_Designs\68040mtr\l\src\register_array.vhd" VHDL l 1 0 0 -02
+"c:\My_Designs\68040mtr\l\src\reset_irq_handler.vhd" VHDL l 1 0 0 -02
+"c:\My_Designs\68040mtr\l\src\vector_split.vhd" VHDL l 1 0 0 -02
+"c:\My_Designs\68040mtr\l\src\data_alu.vhd" VHDL l 1 0 0 -02
+"c:\My_Designs\68040mtr\l\src\mapper.vhd" VHDL l 1 0 0 -02
+"c:\My_Designs\68040mtr\l\src\memory_controller.vhd" VHDL l 1 0 0 -02
+"c:\My_Designs\68040mtr\l\src\ccr.vhd" VHDL l 1 0 0 -02
+"c:\My_Designs\68040mtr\l\src\address_alu.vhd" VHDL l 1 0 0 -02
+"c:\My_Designs\68040mtr\l\src\mul.vhd" VHDL l 1 0 0 -02
+"c:\My_Designs\68040mtr\l\src\div.vhd" VHDL l 1 0 0 -02
+"c:\My_Designs\68040mtr\l\src\adv_math_unit.vhd" VHDL l 1 0 0 -02
+. . 0 0 0

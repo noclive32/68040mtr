@@ -1,0 +1,138 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\microsquencer.vhd" 
+MESSAGE "Compile Entity "microsquencer"" 
+MESSAGE "Compile Architecture "behavior" of Entity "microsquencer"" 
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\register_array.vhd" 
+MESSAGE "Compile Entity "register_array"" 
+MESSAGE "Compile Architecture "behavior" of Entity "register_array"" 
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\reset_irq_handler.vhd" 
+BEGINPROGRESS c:\My_Designs\68040mtr\l\src\reset_irq_handler.vhd
+UPDATEPROGRESS 1
+MESSAGE "Compile Entity "reset_irq_handler"" 
+UPDATEPROGRESS 12
+MESSAGE "Compile Architecture "behavior" of Entity "reset_irq_handler"" 
+UPDATEPROGRESS 14
+UPDATEPROGRESS 15
+UPDATEPROGRESS 16
+UPDATEPROGRESS 17
+UPDATEPROGRESS 18
+UPDATEPROGRESS 19
+UPDATEPROGRESS 20
+UPDATEPROGRESS 21
+UPDATEPROGRESS 22
+UPDATEPROGRESS 23
+UPDATEPROGRESS 24
+UPDATEPROGRESS 26
+UPDATEPROGRESS 37
+UPDATEPROGRESS 38
+UPDATEPROGRESS 40
+UPDATEPROGRESS 46
+UPDATEPROGRESS 48
+UPDATEPROGRESS 49
+UPDATEPROGRESS 54
+UPDATEPROGRESS 59
+UPDATEPROGRESS 63
+UPDATEPROGRESS 64
+UPDATEPROGRESS 90
+UPDATEPROGRESS 91
+UPDATEPROGRESS 95
+UPDATEPROGRESS 96
+UPDATEPROGRESS 98
+UPDATEPROGRESS 100
+ENDPROGRESS c:\My_Designs\68040mtr\l\src\reset_irq_handler.vhd
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\vector_split.vhd" 
+MESSAGE "Compile Entity "vector_split"" 
+MESSAGE "Compile Architecture "behavior" of Entity "vector_split"" 
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\data_alu.vhd" 
+MESSAGE "Compile Entity "data_alu"" 
+MESSAGE "Compile Architecture "behavior" of Entity "data_alu"" 
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\mapper.vhd" 
+BEGINPROGRESS c:\My_Designs\68040mtr\l\src\mapper.vhd
+MESSAGE "Compile Entity "mapper"" 
+UPDATEPROGRESS 3
+MESSAGE "Compile Architecture "behavior" of Entity "mapper"" 
+UPDATEPROGRESS 43
+UPDATEPROGRESS 71
+UPDATEPROGRESS 83
+UPDATEPROGRESS 92
+UPDATEPROGRESS 94
+UPDATEPROGRESS 96
+UPDATEPROGRESS 98
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+ENDPROGRESS c:\My_Designs\68040mtr\l\src\mapper.vhd
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\memory_controller.vhd" 
+BEGINPROGRESS c:\My_Designs\68040mtr\l\src\memory_controller.vhd
+UPDATEPROGRESS 1
+MESSAGE "Compile Entity "memory_controller"" 
+UPDATEPROGRESS 10
+UPDATEPROGRESS 11
+MESSAGE "Compile Architecture "behavior" of Entity "memory_controller"" 
+UPDATEPROGRESS 14
+UPDATEPROGRESS 15
+UPDATEPROGRESS 16
+UPDATEPROGRESS 17
+UPDATEPROGRESS 18
+UPDATEPROGRESS 19
+UPDATEPROGRESS 20
+UPDATEPROGRESS 21
+UPDATEPROGRESS 22
+UPDATEPROGRESS 23
+UPDATEPROGRESS 24
+UPDATEPROGRESS 28
+UPDATEPROGRESS 29
+UPDATEPROGRESS 30
+UPDATEPROGRESS 31
+UPDATEPROGRESS 32
+UPDATEPROGRESS 33
+UPDATEPROGRESS 68
+UPDATEPROGRESS 70
+UPDATEPROGRESS 86
+UPDATEPROGRESS 88
+UPDATEPROGRESS 95
+UPDATEPROGRESS 97
+UPDATEPROGRESS 98
+UPDATEPROGRESS 100
+ENDPROGRESS c:\My_Designs\68040mtr\l\src\memory_controller.vhd
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\ccr.vhd" 
+BEGINPROGRESS c:\My_Designs\68040mtr\l\src\ccr.vhd
+MESSAGE "Compile Entity "ccr"" 
+UPDATEPROGRESS 12
+MESSAGE "Compile Architecture "behavior" of Entity "ccr"" 
+UPDATEPROGRESS 15
+UPDATEPROGRESS 16
+UPDATEPROGRESS 17
+UPDATEPROGRESS 18
+UPDATEPROGRESS 19
+UPDATEPROGRESS 20
+UPDATEPROGRESS 21
+UPDATEPROGRESS 22
+UPDATEPROGRESS 23
+UPDATEPROGRESS 24
+UPDATEPROGRESS 25
+UPDATEPROGRESS 26
+UPDATEPROGRESS 28
+UPDATEPROGRESS 29
+UPDATEPROGRESS 31
+UPDATEPROGRESS 85
+UPDATEPROGRESS 87
+UPDATEPROGRESS 88
+UPDATEPROGRESS 90
+UPDATEPROGRESS 92
+UPDATEPROGRESS 93
+UPDATEPROGRESS 95
+UPDATEPROGRESS 100
+ENDPROGRESS c:\My_Designs\68040mtr\l\src\ccr.vhd
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\address_alu.vhd" 
+MESSAGE "Compile Entity "address_alu"" 
+MESSAGE "Compile Architecture "behavior" of Entity "address_alu"" 
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\mul.vhd" 
+MESSAGE "Compile Entity "mul"" 
+MESSAGE "Compile Architecture "behavior" of Entity "mul"" 
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\div.vhd" 
+MESSAGE "Compile Entity "div"" 
+MESSAGE "Compile Architecture "behavior" of Entity "div"" 
+MESSAGE "File: c:\My_Designs\68040mtr\l\src\adv_math_unit.vhd" 
+MESSAGE "Compile Entity "adv_math_unit"" 
+MESSAGE "Compile Architecture "structure" of Entity "adv_math_unit"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]" 

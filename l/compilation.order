@@ -1,0 +1,12 @@
+.\src\microsquencer.vhd
+.\src\register_array.vhd
+.\src\reset_irq_handler.vhd
+.\src\vector_split.vhd
+.\src\data_alu.vhd
+.\src\mapper.vhd
+.\src\memory_controller.vhd
+.\src\ccr.vhd
+.\src\address_alu.vhd
+.\src\mul.vhd
+.\src\div.vhd
+.\src\adv_math_unit.vhd

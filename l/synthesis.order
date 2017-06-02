@@ -1,0 +1,12 @@
+i<>.\src\address_alu.vhd
+i<>.\src\adv_math_unit.vhd
+i<>.\src\ccr.vhd
+i<>.\src\data_alu.vhd
+i<>.\src\div.vhd
+i<>.\src\mapper.vhd
+i<>.\src\memory_controller.vhd
+i<>.\src\microsquencer.vhd
+i<>.\src\mul.vhd
+i<>.\src\register_array.vhd
+i<>.\src\reset_irq_handler.vhd
+i<>.\src\vector_split.vhd

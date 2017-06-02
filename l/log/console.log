@@ -1,0 +1,111 @@
+# Design: Design l already active.
+# 
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -work l -2002  $dsn/src/address_alu.vhd $dsn/src/adv_math_unit.vhd $dsn/src/ccr.vhd $dsn/src/data_alu.vhd $dsn/src/div.vhd $dsn/src/mapper.vhd $dsn/src/memory_controller.vhd $dsn/src/microsquencer.vhd $dsn/src/mul.vhd $dsn/src/register_array.vhd $dsn/src/reset_irq_handler.vhd $dsn/src/vector_split.vhd
+# Compile with File Reorder...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: c:\My_Designs\68040mtr\l\src\address_alu.vhd
+# Compile Entity "address_alu"
+# Compile Architecture "behavior" of Entity "address_alu"
+# File: c:\My_Designs\68040mtr\l\src\adv_math_unit.vhd
+# Compile Entity "adv_math_unit"
+# Compile Architecture "structure" of Entity "adv_math_unit"
+# File: c:\My_Designs\68040mtr\l\src\ccr.vhd
+# Compile Entity "ccr"
+# Compile Architecture "behavior" of Entity "ccr"
+# File: c:\My_Designs\68040mtr\l\src\data_alu.vhd
+# Compile Entity "data_alu"
+# Compile Architecture "behavior" of Entity "data_alu"
+# File: c:\My_Designs\68040mtr\l\src\div.vhd
+# Compile Entity "div"
+# Compile Architecture "behavior" of Entity "div"
+# File: c:\My_Designs\68040mtr\l\src\mapper.vhd
+# Compile Entity "mapper"
+# Compile Architecture "behavior" of Entity "mapper"
+# File: c:\My_Designs\68040mtr\l\src\memory_controller.vhd
+# Compile Entity "memory_controller"
+# Compile Architecture "behavior" of Entity "memory_controller"
+# File: c:\My_Designs\68040mtr\l\src\microsquencer.vhd
+# Compile Entity "microsquencer"
+# Compile Architecture "behavior" of Entity "microsquencer"
+# File: c:\My_Designs\68040mtr\l\src\mul.vhd
+# Compile Entity "mul"
+# Compile Architecture "behavior" of Entity "mul"
+# File: c:\My_Designs\68040mtr\l\src\register_array.vhd
+# Compile Entity "register_array"
+# Compile Architecture "behavior" of Entity "register_array"
+# File: c:\My_Designs\68040mtr\l\src\reset_irq_handler.vhd
+# Compile Entity "reset_irq_handler"
+# Compile Architecture "behavior" of Entity "reset_irq_handler"
+# File: c:\My_Designs\68040mtr\l\src\vector_split.vhd
+# Compile Entity "vector_split"
+# Compile Architecture "behavior" of Entity "vector_split"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# Top-level unit(s) detected:
+# Entity => microsquencer
+# Entity => register_array
+# Entity => reset_irq_handler
+# Entity => vector_split
+# Entity => data_alu
+# Entity => mapper
+# Entity => memory_controller
+# Entity => adv_math_unit
+# Entity => ccr
+# Entity => address_alu
+# File: c:\My_Designs\68040mtr\l\src\adv_math_unit.vhd
+# Compile Architecture "structure" of Entity "adv_math_unit"
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Error: Memory view: Cannot open file 'c:\My_Designs\68040mtr\l\src\gucode.mif'. Unknown file type.
+# Error: Memory view: Cannot open file 'c:\My_Designs\68040mtr\l\src\gucode.mif'. Unknown file type.
+# Error: Memory view: Cannot open file 'c:\My_Designs\68040mtr\l\src\gucode.mif'. Unknown file type.
+# Error: Memory view: Cannot save to file current signal
+# Error: Memory view: Cannot save to file current signal
+# Error: Memory view: Cannot save to file current signal
+# Error: Memory view: Cannot save to file current signal
+# Error: Memory view: Cannot save to file current signal
+# Error: Memory view: Cannot save to file current signal
+acom -O3 -work l -2002  $dsn/src/microsquencer.vhd $dsn/src/register_array.vhd $dsn/src/reset_irq_handler.vhd $dsn/src/vector_split.vhd $dsn/src/data_alu.vhd $dsn/src/mapper.vhd $dsn/src/memory_controller.vhd $dsn/src/ccr.vhd $dsn/src/address_alu.vhd $dsn/src/mul.vhd $dsn/src/div.vhd $dsn/src/adv_math_unit.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: c:\My_Designs\68040mtr\l\src\microsquencer.vhd
+# Compile Entity "microsquencer"
+# Compile Architecture "behavior" of Entity "microsquencer"
+# File: c:\My_Designs\68040mtr\l\src\register_array.vhd
+# Compile Entity "register_array"
+# Compile Architecture "behavior" of Entity "register_array"
+# File: c:\My_Designs\68040mtr\l\src\reset_irq_handler.vhd
+# Compile Entity "reset_irq_handler"
+# Compile Architecture "behavior" of Entity "reset_irq_handler"
+# File: c:\My_Designs\68040mtr\l\src\vector_split.vhd
+# Compile Entity "vector_split"
+# Compile Architecture "behavior" of Entity "vector_split"
+# File: c:\My_Designs\68040mtr\l\src\data_alu.vhd
+# Compile Entity "data_alu"
+# Compile Architecture "behavior" of Entity "data_alu"
+# File: c:\My_Designs\68040mtr\l\src\mapper.vhd
+# Compile Entity "mapper"
+# Compile Architecture "behavior" of Entity "mapper"
+# File: c:\My_Designs\68040mtr\l\src\memory_controller.vhd
+# Compile Entity "memory_controller"
+# Compile Architecture "behavior" of Entity "memory_controller"
+# File: c:\My_Designs\68040mtr\l\src\ccr.vhd
+# Compile Entity "ccr"
+# Compile Architecture "behavior" of Entity "ccr"
+# File: c:\My_Designs\68040mtr\l\src\address_alu.vhd
+# Compile Entity "address_alu"
+# Compile Architecture "behavior" of Entity "address_alu"
+# File: c:\My_Designs\68040mtr\l\src\mul.vhd
+# Compile Entity "mul"
+# Compile Architecture "behavior" of Entity "mul"
+# File: c:\My_Designs\68040mtr\l\src\div.vhd
+# Compile Entity "div"
+# Compile Architecture "behavior" of Entity "div"
+# File: c:\My_Designs\68040mtr\l\src\adv_math_unit.vhd
+# Compile Entity "adv_math_unit"
+# Compile Architecture "structure" of Entity "adv_math_unit"
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
